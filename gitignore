@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Runtime-generated, machine-specific — shouldn't be committed
+display_roi.json
+*.csv
+snap_raw.jpg
+snap_processed.jpg
