@@ -26,7 +26,7 @@ A Python tool that reads numeric values off a 7-segment digital display in real 
 
  Live GUI Debug View 
 
- ![GUI debug view](screenshots/gui_debug.png) 
+![GUI debug view](screenshots/gui_debug.png)
 
 ---
 
