@@ -24,9 +24,9 @@ A Python tool that reads numeric values off a 7-segment digital display in real 
   the filenames below (or just keep these names and drop your images in).
 -->
 
-| Live GUI Debug View | Terminal Output |
-|---|---|
-| ![GUI debug view](screenshots/gui_debug.png) | ![Terminal output](screenshots/terminal_output.png) |
+ Live GUI Debug View 
+
+ ![GUI debug view](screenshots/gui_debug.png) 
 
 ---
 
