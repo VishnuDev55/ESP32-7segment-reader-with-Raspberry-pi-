@@ -1,3 +1,4 @@
+<img width="1918" height="1198" alt="gui_debug" src="https://github.com/user-attachments/assets/a88f7016-fce3-4d90-92fd-743ee5d7eca8" />
 # 7-Segment Display Reader
 
 A Python tool that reads numeric values off a 7-segment digital display in real time, using an ESP32-CAM as the camera source. It watches an MJPEG stream, finds the display automatically, decodes the digits using two independent recognition engines, and logs every confirmed reading to a CSV file.
